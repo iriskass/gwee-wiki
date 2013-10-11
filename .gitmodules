@@ -1,0 +1,3 @@
+[submodule "gwee"]
+	path = gwee
+	url = https://ulow@bitbucket.org/ulow/gwee.git
